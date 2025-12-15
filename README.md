@@ -1,6 +1,6 @@
 # Web Design Sample
 
-desThis project demonstrates a CMS-friendly SaaS landing page designed in Figma and implemented using HTML and CSS.
+This project demonstrates a CMS-friendly SaaS landing page designed in Figma and implemented using HTML and CSS.
 
 ## Goals
 - Clear structure and hierarchy
@@ -21,9 +21,8 @@ desThis project demonstrates a CMS-friendly SaaS landing page designed in Figma 
 ## Implementation
 - HTML5
 - CSS3
-- Figma
+- [Figma](https://www.figma.com/design/MN1lWfNDjcYrcfds4YvdDr/Odoo-Web-Portfolio?node-id=0-1&t=zhNr5WPcDwEDnVcf-1)
 - Git
 
 ![Mobile](mobile.png)
 
-https://www.figma.com/design/MN1lWfNDjcYrcfds4YvdDr/Odoo-Web-Portfolio?node-id=0-1&t=zhNr5WPcDwEDnVcf-1
