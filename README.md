@@ -21,7 +21,7 @@ This project demonstrates a CMS-friendly SaaS landing page designed in Figma and
 ## Implementation
 - HTML5
 - CSS3
-- [Figma](https://www.figma.com/design/MN1lWfNDjcYrcfds4YvdDr/Odoo-Web-Portfolio?node-id=0-1&t=zhNr5WPcDwEDnVcf-1)
+- 
 - Git
 
 ![Mobile](mobile.png)
