@@ -1,6 +1,6 @@
 # Web Design Sample
 
-This project is a client-facing website designed and implemented as a portfolio sample.
+desThis project demonstrates a CMS-friendly SaaS landing page designed in Figma and implemented using HTML and CSS.
 
 ## Goals
 - Clear structure and hierarchy
@@ -15,8 +15,12 @@ This project is a client-facing website designed and implemented as a portfolio 
 - Max 2 font families
 - Components designed for reuse
 
+![Desktop](desktop.png)
+
 ## Implementation
 - HTML5 + CSS3
 - No frameworks
 - Responsive grid and spacing
 - Maintainable structure
+
+![Mobile](mobile.png)
